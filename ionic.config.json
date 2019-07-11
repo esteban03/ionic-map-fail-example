@@ -1,0 +1,7 @@
+{
+  "name": "agmmap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
